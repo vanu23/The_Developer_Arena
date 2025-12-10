@@ -1,0 +1,33 @@
+Test Case 1:
+Input:
+Name: Priya
+Marks: 85
+Output:
+Grade: B
+Message: Very Good! Keep it up!
+
+Test Case 2:
+Input:
+Name: Rohan
+Marks: 92
+Output:
+Grade: A
+Message: Excellent! You're a star performer!
+
+Test Case 3:
+Input:
+Name: Meera
+Marks: 58
+Output:
+Grade: F
+Message: Don't give up! You can improve!
+
+Test Case 4 (Invalid Input):
+Marks: 120
+Output:
+Invalid input message displayed
+
+Test Case 5 (Invalid Characters):
+Marks: abc
+Output:
+Invalid number message displayed
