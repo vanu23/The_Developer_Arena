@@ -1,0 +1,12 @@
+🛠️ Setup Instructions
+1️⃣ Install Required Libraries
+pip install pandas
+
+2️⃣ Add the Files
+
+Place your dataset inside the project folder:
+
+sales_data.csv
+
+3️⃣ Run the Script
+python sales_analysis.py
