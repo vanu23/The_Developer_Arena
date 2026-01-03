@@ -43,8 +43,8 @@ The dataset contains transactional sales data with the following key columns:
 
 ## 📁 Project Structure
 Interactive-Sales-Dashboard/
-│
 ├── dashboard.ipynb # Main analysis and dashboard notebook
+├── dashboard.py # Python script version
 ├── requirements.txt # Project dependencies
 ├── visualizations/ # Saved charts and screenshots
 ├── dashboard_demo.gif # Dashboard interaction demo
