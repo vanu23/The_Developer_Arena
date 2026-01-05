@@ -1,0 +1,10 @@
+STATISTICAL HYPOTHESIS TEST RESULTS
+
+1. T-Test (East vs West Sales)
+Result: Significant difference in regional sales (p < 0.05)
+
+2. One-Way ANOVA (Product vs Sales)
+Result: No strong product-based sales difference (p > 0.05)
+
+3. T-Test (Churn vs Monthly Charges)
+Result: Churned customers have higher monthly charges (p < 0.05)
