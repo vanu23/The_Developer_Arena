@@ -10,8 +10,6 @@ This project follows a structured data science workflow including data understan
 
 ## 2. Dataset Description
 
-**Source:** https://bit.ly/house-price-dataset  
-
 The dataset contains information about residential properties with the following key features:
 
 - Area of the house
