@@ -1,0 +1,4 @@
+Segment,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Premium Spenders,1.0,0.0,0.0,0.0,
+Budget Conscious,1.0,0.0,0.0,0.0,
+Young Professionals,1.0,1.0,1.0,1.0,
